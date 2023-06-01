@@ -210,3 +210,9 @@ V 3.0.0 完成以下目标：
 
 [MIT](https://github.com/linlinjava/litemall/blob/master/LICENSE)
 Copyright (c) 2018-present linlinjava
+
+## 新增功能
+
+##### 物流功能
+
+![](doc/pics/readme/express.png)
