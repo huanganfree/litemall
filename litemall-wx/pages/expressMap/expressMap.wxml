@@ -1,0 +1,4 @@
+<view class="container">
+    <map id="map" class="map" polyline="{{polyline}}" smooth="{{true}}" include-points="{{includePoints}}" markers="{{markers}}" enable-zoom="{{false}}">
+    </map>
+</view>

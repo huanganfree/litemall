@@ -40,7 +40,8 @@
     "pages/help/help",
     "pages/ucenter/aftersale/aftersale",
     "pages/ucenter/aftersaleList/aftersaleList",
-    "pages/ucenter/aftersaleDetail/aftersaleDetail"
+    "pages/ucenter/aftersaleDetail/aftersaleDetail",
+    "pages/expressMap/expressMap"
   ],
   "window": {
     "navigationBarBackgroundColor": "#FFFFFF",
@@ -79,6 +80,12 @@
         "iconPath": "static/images/my.png",
         "selectedIconPath": "static/images/my@selected.png",
         "text": "个人"
+      },
+      {
+        "pagePath": "pages/expressMap/expressMap",
+        "iconPath": "static/images/map.png",
+        "selectedIconPath": "static/images/map@selected.png",
+        "text": "地图"
       }
     ]
   },
